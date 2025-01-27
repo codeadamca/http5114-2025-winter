@@ -45,3 +45,13 @@ To add an image use the same syntax as a link with an exclamation mark at the be
 <img src="images/github.jpg" width="100" />
 
 <!-- This is a Markdown Comment -->
+
+## Code
+
+You can add `code` inline using a single tic.
+
+You can add multiple lines of code using three tics:
+
+```javascript
+var test = "string";
+```
