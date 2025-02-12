@@ -1,4 +1,4 @@
-# HTTP5114 Workshops in Web Developer
+# HTTP5114 Workshops in Web Development
 
 This is the repo for class content from [HTTP5114 Workshops in Web Developer](https://mediaarts.humber.ca/programs/web-development.html).
 
